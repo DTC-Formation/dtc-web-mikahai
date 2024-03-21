@@ -7,28 +7,29 @@ body {
     background: Black: hsl(0, 0%, 8%);
     text-align: center;
     height: 100vh;
-    align-items: center;
     display: inline;
 
 }
-
 .profil {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    background-color: Grey: hsl(0, 0%, 20%)
-    padding: 10%;  
+    background-color: Black: hsl(0, 0%, 8%);
     
+}
+.profil-photo {
+    width: 40%;
+    height: 40%;
+    display: flex;
+    border-radius: 540px;
+    align-items: center;
+     
 }   
 
-.Name {
-    font-size: ;
+.profil-Name {
     margin-bottom: 10px;
-    color: hsl(0, 0%, 100%);
+    color: black;
 }
 
-.States {
-    font-size: 1.2rem;
+.profil-States {
+    font-size: 14;
     margin-bottom: 10px;
     color: hsl(75, 94%, 57%);
 }
