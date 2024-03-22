@@ -1,0 +1,42 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+body {
+    background: Black: hsl(0, 0%, 8%);
+    text-align: center;
+    height: 100vh;
+    display: inline;
+
+}
+.profil {
+    background-color: Black: hsl(0, 0%, 8%);
+    
+}
+.profil-photo {
+    width: 40%;
+    height: 40%;
+    display: flex;
+    border-radius: 540px;
+    align-items: center;
+     
+}   
+
+.profil-Name {
+    margin-bottom: 10px;
+    color: black;
+}
+
+.profil-States {
+    font-size: 14;
+    margin-bottom: 10px;
+    color: hsl(75, 94%, 57%);
+}
+
+.social-media {
+    flex-direction: column;
+    align-items: center;
+    display: block;
+    width: 100%;
+}
